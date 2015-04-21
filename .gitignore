@@ -1,0 +1,4 @@
+# Ignore following files
+*~
+*.sqlite3
+*.pyc
